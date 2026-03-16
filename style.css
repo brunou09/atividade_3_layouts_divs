@@ -28,6 +28,18 @@ body{
     padding-right: 279px;
 }
 
-.esticar{
+.esticar_mais{
+    padding-bottom: 500px;
+}
+
+.esticar_menos{
     padding-bottom: 300px;
+}
+
+.n_esticar{
+    padding-bottom: 80px;
+}
+
+.n_alongar{
+    padding-right: 64px;
 }
